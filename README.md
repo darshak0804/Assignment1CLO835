@@ -59,7 +59,7 @@ To interact with the application, you can use the following `curl` command to cr
 ```bash
 curl -X POST http://localhost:3000/items \
      -H "Content-Type: application/json" \
-     -d '{"id": "4", "name": "maziar"}'
+     -d '{"id": "4", "name": "Darshak"}'
 ```
 
 ## Contributing to the Project
